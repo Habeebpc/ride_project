@@ -1,0 +1,12 @@
+*.pot
+*.pyc
+__pycache__
+/media/
+/static/
+token.pickle
+/temp/
+__pycache__/
+/venv
+.idea
+*.sqlite3
+
